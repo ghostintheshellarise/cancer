@@ -1,0 +1,11 @@
+title: minima
+author: Simon KM Tse
+email: simonkamantse@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my way to understand cancer biology using ML/NLP.  
+  It's not a typical ML blog. Please don't expect I will talk about the tools in detail.
+
+# social links
+github_username:  ghostintheshellarise
+
+show_excerpts: false # set to false to remove excerpts on the homepage
