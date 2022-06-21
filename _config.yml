@@ -1,0 +1,12 @@
+title: Cancer Biology
+author: Simon Tse
+email: simonkamantse@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog chronicling my journey to understand cancer via different analysis tools.
+  So it's not confined to specific approach.  The focus is on understanding cancer itself from differen angles.
+
+# social links
+
+github_username:  ghostintheshellarise
+
+show_excerpts: false # set to false to remove excerpts on the homepage
