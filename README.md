@@ -1,13 +1,10 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Welcome to my blog on anything related to cancer biology
+---
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+I'm glad you are here. I plan to talk about everything about cancer.  I am going to analyse it with biomedical text analysis, system biology, or other potential computational tools that could shed light into the behavior of cancer.
 
-Oh! I haven't introduced myself...
+Why am I doing this?  First, my parents died from cancers.  Second, I am fascinated by the complexity of this disease. I want to understand it in my own way.  And that is through data analysis of which I are classically trained in it.
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+This blog does not focus on any particular data analysis method. The spotlight is on cancer and I will use anything from ML or NLP or mathematical modeling to analyse the disease.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+Welcome any comment and input!
